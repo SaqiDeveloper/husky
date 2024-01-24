@@ -1,2 +1,7 @@
-let a = 4;
-let b = 4;
+let myName = 4;
+
+function myFunction() {
+  console.log(myName);
+}
+
+myFunction();
